@@ -1,1 +1,1 @@
-Ceci  est le fichier redme du cc
+ ## Ceci  est le fichier redme du cc de git ce jeudi
